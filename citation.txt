@@ -1,0 +1,10 @@
+@article{AAAI/article/view/17015,
+author = {Feijiang Li, Yuhua Qian, Jieting Wang},
+title = {GoT: a Growing Tree Model for Clustering Ensemble},
+journal = {
+Proceedings of the AAAI Conference on Artificial Intelligence},
+year = {2021},
+volume = {35},
+number = {9}£¬
+pages = {8349-8356}
+}
