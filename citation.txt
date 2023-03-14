@@ -1,0 +1,9 @@
+@article{REPO-077,
+    author = "Feijiang Li, Yuhua Qian, Jieting Wang",
+    journal = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "9",
+    pages = "8349-8356",
+    title = "{GoT: a Growing Tree Model for Clustering Ensemble}",
+    volume = "35",
+    year = "2021"
+}
